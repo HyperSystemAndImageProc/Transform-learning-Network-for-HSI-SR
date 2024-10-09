@@ -11,3 +11,5 @@ Step 4: Load pre-trained weights using "torch.load".
 Step 5: Train on the real dataset to fully exploit the potential of the network.
 
 The steps for the preparation of the pseudo dataset are in section 3.1 of the article. (https://doi.org/10.1016/j.jag.2024.104180)
+
+Pseudo dataset demos can be downloaded at https://pan.baidu.com/s/1DNMAcRiO7B5AmS82kjJUPw : 9v75
